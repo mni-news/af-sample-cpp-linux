@@ -7,3 +7,11 @@ This contains sample code for AlphaFlash in C++ on linux/unix systems.
  - g++
  - make
  - boost
+
+## Building
+
+    $ make
+
+## Running
+
+    $  ./AlphaFlashClient <host> <port> <username> <password>
